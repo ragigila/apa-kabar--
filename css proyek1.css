@@ -1,0 +1,230 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body {
+	width:900px;
+	height:700px;
+}
+
+#header {
+	font: "Segoe Script";
+	font-size:58px;
+	margin-left:357px;
+	background: url(asset/tag-line_03.jpg);
+	width:515px;
+	height:35px;
+	margin-top:20px
+}
+
+#konten{
+	background: url(asset/logo-awal_07.jpg);
+	margin-left:450px;
+	margin-top:30px;
+	height:442px;
+	width:335px
+}
+
+.navibar {
+	margin-left: 300px;
+	padding-top:40px;
+	width:30px;
+	height:30px;
+}
+
+.navi:hover {
+	background-color:#77a809;
+	text-decoration:none}
+
+.navi:active {
+	position:relative;
+	top:1px;
+}
+
+.sosmed {
+	height:30px;
+	width:90px;
+	margin-left:495px;
+	margin-top:25px
+}
+
+.sosmed_k:hover {
+	background-color:#77a809;
+	text-decoration:none;
+	padding: 1 1 1 1px
+}
+
+.sosmed_k:active {
+	position:relative;
+	top:1px;
+}
+
+#header_page {
+	height:153px;
+	width:114px;
+	margin-left:100px;
+	margin-top:40px;
+	
+	
+}
+
+#header_page_atas {
+	background: url(asset/taglinepage_03.jpg);
+	width:340px;
+	height:35px;
+	margin-left:240px;
+	margin-top:30px;
+	
+}
+
+
+.sosmed_page {
+	margin-left:1200px;
+	margin-top:-210px;
+	height:30px;
+	width:80px;
+}
+
+sosmed_page sosmed_page:link , sosmed_page:visited , sosmed_page:hover , sosmed_page:active .current1 {
+	background-color:#999;
+	border-bottom:#000;
+	text-decoration:none
+}
+
+.nav_page {
+	margin-left:80px;
+	margin-top:210px;
+	font-variant:normal;
+	float:left
+}
+
+#konten_page {
+	margin-left:40px;
+	margin-top:50px;
+	height:620px;
+	width:1300px;
+	float:left;
+
+}
+
+#footer_page {
+	margin-top:220px;
+	margin-left:380px;
+	width:220px;
+	height:80px;
+	text-decoration:none
+}
+
+.footer_img {
+	margin-top: 600px;
+	margin-left:360px;
+}
+
+.footer_img:hover {
+	padding:10 10 20px;
+	background-color:#77a809;
+	position:relative;
+	top:1px;
+}
+.kontak_page {
+	width:600px;
+	height:700px
+}
+
+.aboutus_page {
+	width:800px;
+	height:700px
+}
+	
+}
+.kontak {
+	margin-left:10px;
+	margin-top:10px;
+	width:150px
+}
+
+.label {
+	width:100px;
+	margin-left:10px;
+}
+
+.img {
+	width:300px;
+	height:500px;
+	background:#FFF;
+	float:left;
+	margin-top:20px;
+	margin-left:10px;
+}
+
+.img_konten {
+	margin-left:10px;
+	marhin-top: 20px;
+}
+
+.h2 {
+	font-style:italic;
+	font-size:18px;
+	font-stretch:expanded
+}
+
+.img_text {
+	width:300px;
+	height:200px
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:16px;
+	padding:10 10 20px;
+	color:#333;
+}
+
+
+.add {
+	-moz-box-shadow: 0px 1px 0px 0px #a4e271;
+	-webkit-box-shadow: 0px 1px 0px 0px #a4e271;
+	box-shadow: 0px 1px 0px 0px #a4e271;
+	background-color:#89c403;
+	-moz-border-radius:34px;
+	-webkit-border-radius:34px;
+	border-radius:34px;
+	border:2px solid #74b807;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:2px 9px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528009;
+	margin-left:180px
+	
+}.add:hover {
+	background-color:#77a809;
+}.add:active {
+	position:relative;
+	top:1px;
+}
+
+.add_konten {
+	-moz-box-shadow: 0px 1px 0px 0px #a4e271;
+	-webkit-box-shadow: 0px 1px 0px 0px #a4e271;
+	box-shadow: 0px 1px 0px 0px #a4e271;
+	background-color:#89c403;
+	-moz-border-radius:34px;
+	-webkit-border-radius:34px;
+	border-radius:34px;
+	border:2px solid #74b807;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:2px 9px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528009;
+	margin-left:10px
+	
+}.add_konten:hover {
+	background-color:#77a809;
+}.add_konten:active {
+	position:relative;
+	top:1px;
+}
